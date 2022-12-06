@@ -1,2 +1,2 @@
 # dio-desafio-github-gft
-GFT Quality Assurance parav Mulheres desafio Git/Github
+GFT Quality Assurance para Mulheres desafio Git/Github
